@@ -1,0 +1,7 @@
+import org.apache.hadoop.security.protocolPB.RefreshAuthorizationPolicyProtocolServerSideTranslatorPB;
+public class FunctionUse8473 {
+public void funcUse() {
+RefreshAuthorizationPolicyProtocolServerSideTranslatorPB refreshauthorizationpolicyprotocolserversidetranslatorpb = new RefreshAuthorizationPolicyProtocolServerSideTranslatorPB();
+refreshauthorizationpolicyprotocolserversidetranslatorpb.refreshServiceAcl(null,null);
+}
+}
